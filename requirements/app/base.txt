@@ -1,5 +1,5 @@
 py
-jinja2==3.0.3
+jinja2==3.1.2
 lightning-cloud==0.5.0
 packaging
 deepdiff >= 5.7.0
